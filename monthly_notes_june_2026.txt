@@ -1,0 +1,37 @@
+============================================================
+COMMODITY MARKETS MONTHLY REPORT — July 2026
+============================================================
+
+BRENT-WTI SPREAD
+  Current Spread:     $3.15
+  30 Day Average:     $3.56
+  Current Drawdown:   $-13.82
+  Z Score:            -0.29
+  Signal:             Neutral
+
+VOLATILITY
+  30 Day:             $1.40
+  90 Day:             $3.88
+  Regime:             Low
+
+DAILY PERFORMANCE
+  Brent        ▼  -2.55%
+  WTI          ▼  -2.29%
+  NatGas       ▲   7.98%
+  Gold         ▲   0.21%
+  Silver       ▲   0.80%
+  Copper       ▼  -0.65%
+  Platinum     ▲   1.09%
+  Sugar        ▼  -2.26%
+  Coffee       ▲   2.48%
+  Cotton       ▲   4.32%
+  Wheat        ▲   0.55%
+  Corn         ▲   7.03%
+  Soybeans     ▲   2.91%
+  DXY          ▲   2.93%
+  SP500        ▼  -0.22%
+
+ANALYST NOTES
+  Market Overview:    [ADD NOTES]
+  Key Risks:          [ADD NOTES]
+  Outlook:            [ADD NOTES]
